@@ -1,0 +1,60 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "First Tests",
+    "children" : [ {
+      "name" : "click on View Plan by ID: 501349",
+      "uid" : "3b93dc72e03bde22",
+      "parentUid" : "e7684869b05bee04ff442784a05eeff7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659424924965,
+        "stop" : 1659424942263,
+        "duration" : 17298
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.134" ]
+    }, {
+      "name" : "validate details of plan: Post-Pay Per Lead",
+      "uid" : "75611da6df689f9",
+      "parentUid" : "e7684869b05bee04ff442784a05eeff7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659424942264,
+        "stop" : 1659424946575,
+        "duration" : 4311
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.134" ]
+    }, {
+      "name" : "Check that there is two categories selected in .selected-categories-list",
+      "uid" : "fa1c2efb47b8d0d4",
+      "parentUid" : "e7684869b05bee04ff442784a05eeff7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1659424946575,
+        "stop" : 0,
+        "duration" : -1659424946575
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-103.0.5060.134" ]
+    } ],
+    "uid" : "e7684869b05bee04ff442784a05eeff7"
+  } ]
+}

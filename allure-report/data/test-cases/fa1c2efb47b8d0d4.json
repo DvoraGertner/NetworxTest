@@ -1,0 +1,87 @@
+{
+  "uid" : "fa1c2efb47b8d0d4",
+  "name" : "Check that there is two categories selected in .selected-categories-list",
+  "fullName" : "First Tests.Check that there is two categories selected in .selected-categories-list",
+  "historyId" : "516f4832f6275b97ccd72355f8eef605",
+  "time" : {
+    "start" : 1659424946575,
+    "stop" : 0,
+    "duration" : -1659424946575
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "unknown",
+    "steps" : [ {
+      "name" : "Go to Plans tab",
+      "time" : {
+        "start" : 1659424946576,
+        "stop" : 1659424946576,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "First Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "First Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check that there is two categories selected in .selected-categories-list"
+  }, {
+    "name" : "package",
+    "value" : "First Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.134"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa1c2efb47b8d0d4.json",
+  "parameterValues" : [ "chrome-103.0.5060.134" ]
+}

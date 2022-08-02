@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "e7684869b05bee04ff442784a05eeff7",
+    "name" : "First Tests",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 1,
+      "total" : 3
+    }
+  } ]
+}

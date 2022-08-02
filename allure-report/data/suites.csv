@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Aug 02 10:22:04 IDT 2022","Tue Aug 02 10:22:22 IDT 2022","17298","","First Tests","","First Tests","click on View Plan by ID: 501349","click on View Plan by ID: 501349",""
+"passed","Tue Aug 02 10:22:22 IDT 2022","Tue Aug 02 10:22:26 IDT 2022","4311","","First Tests","","First Tests","validate details of plan: Post-Pay Per Lead","validate details of plan: Post-Pay Per Lead",""
+"unknown","Tue Aug 02 10:22:26 IDT 2022","Thu Jan 01 02:00:00 IST 1970","-1659424946575","","First Tests","","First Tests","Check that there is two categories selected in .selected-categories-list","Check that there is two categories selected in .selected-categories-list",""

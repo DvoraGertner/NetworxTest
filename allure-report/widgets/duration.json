@@ -1,0 +1,31 @@
+[ {
+  "uid" : "3b93dc72e03bde22",
+  "name" : "click on View Plan by ID: 501349",
+  "time" : {
+    "start" : 1659424924965,
+    "stop" : 1659424942263,
+    "duration" : 17298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75611da6df689f9",
+  "name" : "validate details of plan: Post-Pay Per Lead",
+  "time" : {
+    "start" : 1659424942264,
+    "stop" : 1659424946575,
+    "duration" : 4311
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa1c2efb47b8d0d4",
+  "name" : "Check that there is two categories selected in .selected-categories-list",
+  "time" : {
+    "start" : 1659424946575,
+    "stop" : 0,
+    "duration" : -1659424946575
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+} ]

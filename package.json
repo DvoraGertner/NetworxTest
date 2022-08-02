@@ -1,0 +1,38 @@
+{
+  "name": "webdriverioframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio",
+    "debug": "node tests/UploadImagesTests.js"
+  },
+  "author": "Dvora Gertner",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/allure-reporter": "7.9.1",
+    "@wdio/cli": "7.0.1",
+    "@wdio/dot-reporter": "7.0.4",
+    "@wdio/junit-reporter": "7.0.4",
+    "@wdio/local-runner": "7.0.1",
+    "@wdio/mocha-framework": "7.0.0",
+    "@wdio/selenium-standalone-service": "7.0.4",
+    "@wdio/spec-reporter": "7.0.1",
+    "@wdio/sync": "7.0.1",
+    "chai": "4.3.4",
+    "loglevel-plugin-prefix": "0.8.4",
+    "mocha": "8.3.0",
+    "selenium-standalone": "6.15.3",
+    "sync-request": "6.1.0",
+    "utf-8-validate": "5.0.4",
+    "wdio-allure-reporter": "0.8.3",
+    "wdio-chromedriver-service": "6.0.4",
+    "wdio-json-reporter": "0.4.0",
+    "wdio-junit-reporter": "0.4.4",
+    "webdriverio": "7.0.4"
+  },
+  "dependencies": {
+    "bufferutil": "4.0.3",
+    "chromedriver": "^103.0.0"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "uid" : "75611da6df689f9",
+  "name" : "validate details of plan: Post-Pay Per Lead",
+  "fullName" : "First Tests.validate details of plan: Post-Pay Per Lead",
+  "historyId" : "bb049c1048f24195dbac9463b2da0dd0",
+  "time" : {
+    "start" : 1659424942264,
+    "stop" : 1659424946575,
+    "duration" : 4311
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Go to Plans tab",
+      "time" : {
+        "start" : 1659424942264,
+        "stop" : 1659424942264,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "First Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "First Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "validate details of plan: Post-Pay Per Lead"
+  }, {
+    "name" : "package",
+    "value" : "First Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.134"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75611da6df689f9.json",
+  "parameterValues" : [ "chrome-103.0.5060.134" ]
+}

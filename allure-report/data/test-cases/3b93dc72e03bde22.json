@@ -1,0 +1,87 @@
+{
+  "uid" : "3b93dc72e03bde22",
+  "name" : "click on View Plan by ID: 501349",
+  "fullName" : "First Tests.click on View Plan by ID: 501349",
+  "historyId" : "e16da108a16affabbf1fb519a95f10bb",
+  "time" : {
+    "start" : 1659424924965,
+    "stop" : 1659424942263,
+    "duration" : 17298
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Go to Plans tab",
+      "time" : {
+        "start" : 1659424924974,
+        "stop" : 1659424924975,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "First Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "First Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "click on View Plan by ID: 501349"
+  }, {
+    "name" : "package",
+    "value" : "First Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-103.0.5060.134"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b93dc72e03bde22.json",
+  "parameterValues" : [ "chrome-103.0.5060.134" ]
+}
