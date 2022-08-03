@@ -1,2 +1,3 @@
 # Do run test and see result:
-# run 'runme.sh' with Git for Windows
+# Right click on the file: 'runme.sh'
+# choose 'with Git for Windows' options
