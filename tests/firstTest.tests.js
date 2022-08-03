@@ -20,6 +20,7 @@ describe('First Tests', function () {
 		FirstTest_Page.clickOnTab('Plans');
 		FirstTest_Page.viewPlanButton.waitForDisplayed(3000);
 
+		AllureReporter.addStep('click view Plan')
 		FirstTest_Page.clickViewPlanByID(data.planByID.ID);
 
 	});
@@ -31,11 +32,13 @@ describe('First Tests', function () {
 		FirstTest_Page.clickOnTab('Plans');
 		FirstTest_Page.viewPlanButton.waitForDisplayed(3000);
 
+		AllureReporter.addStep('validate Plan Details')
 		FirstTest_Page.validatePlanDetails(data.planDetails.name, data.planDetails.status, data.planDetails.address, data.planDetails.wrench, data.planDetails.price)
 	});
 
 	it('Check that there is two categories selected in .selected-categories-list', function () {
 
+		AllureReporter.addStep('validate Amount Checked Catigories')
 		FirstTest_Page.validateAmountCheckedCatigories(data.planDetails.name, 2);
 	});
 
